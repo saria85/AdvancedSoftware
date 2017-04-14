@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_d5cebaee191986e3f61f8a7b014938462a047404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_b02e433367f7afc4b2e8149e77a05ff7aad07d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\exploded-aar\com.android.support\percent\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\com.android.support-percent-23.0.1_3c052699095a5b57830169c55bc5b6b6cb9312fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_73faf66ae34a0630097fc398be933685daaa3051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.1_a25ded1d0fb62904d3bca3c79ca817b12e4020ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_f59b80162b80ad376020598fe63aaa13a0b87143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_d32a5aab43e8c163ac9ef639ea0387a056c17689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_2a75c40599d8a72605fc867a331518115e4ecae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_c464096959ede1e82b5f162b2ee5e8d42686460a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\2.0.0-beta2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2bcb7c0e6418b3fe8af00a93e32c3518cb9c271">
+        <dex dex="C:\Users\gouda\Downloads\WearableSuggest-master\wear\build\intermediates\pre-dexed\debug\com.google.android.support-wearable-2.0.0-beta2_c2336729e871a010f3f206697d5b9559ac0520f6.jar" />
+    </item>
+
+</items>
