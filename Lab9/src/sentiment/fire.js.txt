@@ -1,0 +1,15 @@
+var config = {
+    apiKey: "SSzaSySdJQbVVTpBTP9tjvaxhUXKf3YB6QaZk6K",
+    authDomain: "assignment-lab9.firebaseapp.com",
+    databaseURL: "https://assignment-lab9.firebaseio.com",
+    storageBucket: "assignment-lab9.appspot.com",
+    messagingSenderId: "191347726285"
+};
+
+firebase.initializeApp(config);
+
+var fbdb = firebase.database().ref('/messages');
+
+// var fbdb= app.ref('/messages');
+//
+// console.log('Firebase Ready');

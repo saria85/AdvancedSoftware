@@ -1,0 +1,21 @@
+<ion-view class="container">
+
+<label class="item item-input" style="border:none;">
+  <textarea ng-model="query" name="Text1" cols="20" rows="3"></textarea>
+</label>
+    
+
+
+<button class="button button-balanced home" ng-click='sentiment()'>Calculate</button>
+
+<button class="button button-assertive home" ng-click="call(-1)">Back</button>
+
+<div style="text-align:left; margin-top:10px;">
+<strong>Positive</strong>
+
+    
+<div style="text-align:left; margin-top:10px;">
+<strong>Negative</strong>
+   
+
+</ion-view>
